@@ -1,4 +1,3 @@
 # Balloon-Popping
-Config files for my GitHub profile.
 
-Implementation of a simple game "Ballon-Popping" using pygame
+Implementation of a shooting game using an open source moudle, Pygame library, in Python
