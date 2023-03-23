@@ -16,15 +16,15 @@ Implemented a shooting game called "Balloon Popping"
 
 ## Installation
 
-will be updated soon
+Will be updated soon
 
 ## Usage
 
-will be updated soon
+Will be updated soon
 
 ## Contributing
 
-will be updated soon
+Will be updated soon
 
 ## License
 
