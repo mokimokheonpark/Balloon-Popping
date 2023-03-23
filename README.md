@@ -12,19 +12,19 @@ Implementation of Balloon Popping Shooting Game
 
 ## Overview
 
-Implemented a shooting game called "Balloon Popping"
+Implemented a shooting game called "Balloon Popping" using the Pygame library in Python.
 
 ## Installation
 
-Will be updated soon
+Will be updated soon.
 
 ## Usage
 
-Will be updated soon
+Will be updated soon.
 
 ## Contributing
 
-Will be updated soon
+Will be updated soon.
 
 ## License
 
